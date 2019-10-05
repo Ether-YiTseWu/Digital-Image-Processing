@@ -18,8 +18,5 @@ There are some labs and projects about digital image processing
 - Goal : 
 >
 - Result : 
-![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Image/Lab01/dumplingsRGB.jpg)
-![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Image/Lab01/dumplingsGray.jpg)
-![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Image/Lab01/dumplingsAntiWhite.jpg)
-![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Image/Lab01/dumplingsBinarization.jpg)
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Image/Lab01/LAB01_sets.PNG)
 >
