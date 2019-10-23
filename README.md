@@ -22,5 +22,6 @@ Complete gray, anti-white and binarization in an any image.
 Use python, OpenCV and Numpy to deal with the image array.
 >
 - Result :     
-![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Image/Lab01/LAB01_sets.PNG)
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab01_Gray%2C%20anti-white%20and%20binarization/LAB01_sets.PNG)
 >
+## Lab02 : Dithering
