@@ -25,3 +25,13 @@ Use python, OpenCV and Numpy to deal with the image array.
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab01_Gray%2C%20anti-white%20and%20binarization/LAB01_sets.PNG)
 >
 ## Lab02 : Dithering
+- Goal :      
+Complete ordered dithering, error diffusion and dot diffusion.
+>
+- Method :      
+Use python, skimage and Numpy to deal with the image array.
+>
+- Result :     
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab02_Dithering/OrderDitherSets.PNG)
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab02_Dithering/ErrorDiffSets.PNG)
+>
