@@ -26,7 +26,7 @@ Use python, OpenCV and Numpy to deal with the image array.
 >
 ## Lab02 : Dithering
 - Goal :      
-Complete ordered dithering, error diffusion and dot diffusion.
+Complete ordered dithering and error diffusion.
 >
 - Method :      
 Use python, skimage and Numpy to deal with the image array.
