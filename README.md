@@ -49,7 +49,7 @@ Use python, skimage and Numpy to deal with the image array.
 
 ## Lab05 : Distortion correction
 - Goal :      
-Find the skull in a paint, <<The Ambassadors>>. It was painted by Hans HOLBEIN the Younger.
+Find the skull in a paint, The Ambassadors. It was painted by Hans HOLBEIN the Younger.
 >
 - Method :      
 Use python, skimage and Numpy to deal with the image array.
