@@ -46,3 +46,14 @@ Use python, skimage and Numpy to deal with the image array.
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab03_Histogram%20equalization/LAB03Sets.PNG)
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab03_Histogram%20equalization/HistogramSets.png)
 >
+
+## Lab05 : Distortion correction
+- Goal :      
+Find the skull in a paint,<The Ambassadors>. It was painted by Hans HOLBEIN the Younger.
+>
+- Method :      
+Use python, skimage and Numpy to deal with the image array.
+>
+- Result :     
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab05_Distortion%20correction/Lab05Sets.PNG)
+>
