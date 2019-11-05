@@ -35,3 +35,14 @@ Use python, skimage and Numpy to deal with the image array.
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab02_Dithering/OrderDitherSets.PNG)
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab02_Dithering/ErrorDiffSets.PNG)
 >
+## Lab03 : Histogram equalization
+- Goal :      
+Use skimage to complete global histogram equalization and local histogram equalization. In addition, try to practice global histogram equalization by own programming skill.
+>
+- Method :      
+Use python, skimage and Numpy to deal with the image array.
+>
+- Result :     
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab03_Histogram%20equalization/LAB03Sets.PNG)
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab03_Histogram%20equalization/HistogramSets.png)
+>
