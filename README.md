@@ -12,6 +12,9 @@ There are some labs and projects about digital image processing
 - Image files and file types
 - Image showing
 - Point processing
+- Neighborhood processing
+- Image geometry
+- Fourier transform
 >
 
 ## Lab01 : Gray, anti-white and binarization
@@ -45,6 +48,17 @@ Use python, skimage and Numpy to deal with the image array.
 - Result :     
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab03_Histogram%20equalization/LAB03Sets.PNG)
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab03_Histogram%20equalization/HistogramSets.png)
+>
+
+## Lab04 : Kuwahara filter
+- Goal :      
+Use two different neighborhood to practice Kuwahara filter, and compare the difference between these images.
+>
+- Method :      
+Use python, skimage and Numpy to deal with the image array.
+>
+- Result :     
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab04_Kuwahara%20filter/LAB04Sets.PNG)
 >
 
 ## Lab05 : Distortion correction
