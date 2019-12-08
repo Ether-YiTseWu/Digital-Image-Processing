@@ -71,3 +71,14 @@ Use python, skimage and Numpy to deal with the image array.
 - Result :     
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab05_Distortion%20correction/Lab05Sets.PNG)
 >
+
+## Lab06 : Fourier transform
+- Goal :      
+
+>
+- Method :      
+Use python, skimage and Numpy to deal with the image array.
+>
+- Result :     
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab06_Fourier%20transform/Lab06Sets.PNG)
+>
