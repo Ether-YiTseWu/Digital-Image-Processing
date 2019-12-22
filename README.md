@@ -80,5 +80,16 @@ Use python, skimage and Numpy to deal with the image array.
 Use python, skimage and Numpy to deal with the image array.
 >
 - Result :     
-![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab06_Fourier%20transform/Lab06Sets.PNG)
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab06_Fourier%20transform/Lab06Sets.jpg)
+>
+
+## Lab07 : Wiener filter
+- Goal :      
+
+>
+- Method :      
+Use python, skimage and Numpy to deal with the image array.
+>
+- Result :     
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab07_Wiener%20filter/Lab07Sets.jpg)
 >
