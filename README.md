@@ -74,7 +74,7 @@ Use python, skimage and Numpy to deal with the image array.
 
 ## Lab06 : Fourier transform
 - Goal :      
-
+Do the Gaussian and Butterworth filter(FFT and not FFT method).
 >
 - Method :      
 Use python, skimage and Numpy to deal with the image array.
@@ -85,7 +85,7 @@ Use python, skimage and Numpy to deal with the image array.
 
 ## Lab07 : Wiener filter
 - Goal :      
-
+Restore the image which add gaussian noise by wiener filter(FFT and not FFT method). 
 >
 - Method :      
 Use python, skimage and Numpy to deal with the image array.
