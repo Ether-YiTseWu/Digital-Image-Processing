@@ -93,3 +93,14 @@ Use python, skimage and Numpy to deal with the image array.
 - Result :     
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab07_Wiener%20filter/Lab07Sets.jpg)
 >
+
+## Lab08 : Hough transform and radon transform
+- Goal :      
+
+>
+- Method :      
+Use python, skimage and Numpy to deal with the image array.
+>
+- Result :     
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab08_Hough%20transform%20and%20radon%20transform/Lab08Sets.PNG)
+>
