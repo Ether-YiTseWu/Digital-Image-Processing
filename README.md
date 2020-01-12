@@ -6,6 +6,7 @@ There are some labs and projects about digital image processing
 
 ## Mind map
 >
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/%E6%95%B8%E4%BD%8D%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86.png)
 
 ## Course content
 - Introduction
@@ -14,7 +15,10 @@ There are some labs and projects about digital image processing
 - Point processing
 - Neighborhood processing
 - Image geometry
-- Fourier transform
+- Fourier transformation
+- Image restoration
+- Image segmentation
+- Image morphology
 >
 
 ## Lab01 : Gray, anti-white and binarization
