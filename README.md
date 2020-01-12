@@ -100,7 +100,7 @@ Use python, skimage and Numpy to deal with the image array.
 
 ## Lab08 : Hough transform and radon transform
 ### Goal :      
-
+Use Hough transform and radon transform to find the Line segment in lena.jpg.
 >
 ### Method :      
 Use python, skimage and Numpy to deal with the image array.
