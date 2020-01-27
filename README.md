@@ -8,6 +8,16 @@ There are some labs and projects about digital image processing
 >
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/%E6%95%B8%E4%BD%8D%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86.png)
 
+## Lab List
+- Lab01 : Gray, anti-white and binarization
+- Lab02 : Dithering
+- Lab03 : Histogram equalization
+- Lab04 : Kuwahara filter
+- Lab05 : Distortion correction
+- Lab06 : Fourier transform
+- Lab07 : Wiener filter
+- Lab08 : Hough transform and radon transform
+
 ## Lab01 : Gray, anti-white and binarization
 ### Goal :      
 Complete gray, anti-white and binarization in an any image.
