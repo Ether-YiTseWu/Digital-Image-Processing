@@ -107,6 +107,12 @@ Use python, skimage and Numpy to deal with the image array.
 >
 
 ## Final Project : A GUI that have the ability to classify cats and dogs
+### Goal :    
+Train a model that have the ability to classify cats and dogs. In addition, make a GUI program and let people use it conveniently.
+>
+### Method :    
+Use Tensorflow CNN model and python tkinter package to complete this classification and GUI program. [GUI download url](https://mega.nz/#!UHpxnDBD!WTqlhmbQCOY0GseApFGy-5lDblI0tS02K4uoEp7qVOU)
+>
 ### Result :
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Final%20Project/GUI%20appearance.png)
 >
