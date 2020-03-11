@@ -105,3 +105,8 @@ Use python, skimage and Numpy to deal with the image array.
 ### Result :     
 ![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Lab08_Hough%20transform%20and%20radon%20transform/Lab08Sets.PNG)
 >
+
+## Final Project : A GUI that have the ability to classify cats and dogs
+### Result :
+![](https://github.com/tailer954/Digital-Image-Processing/blob/master/Final%20Project/GUI%20appearance.png)
+>
